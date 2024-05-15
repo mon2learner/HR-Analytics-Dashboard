@@ -3,7 +3,7 @@
 
 # HR Analytics Dashboard
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/mon2learner/HR-Analytics-Dashboard/blob/main/HR%20Dashboard/Dashboard.png?raw=true)
 
 ## Overview
 
