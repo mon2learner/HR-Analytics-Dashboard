@@ -4,6 +4,7 @@
 # HR Analytics Dashboard
 
 ![Dashboard Screenshot](https://github.com/mon2learner/HR-Analytics-Dashboard/blob/main/HR%20Dashboard/Dashboard.png?raw=true)
+![Dashboard Screenshot](https://github.com/mon2learner/HR-Analytics-Dashboard/blob/main/HR%20Dashboard/DayDash.png)
 
 ## Overview
 
